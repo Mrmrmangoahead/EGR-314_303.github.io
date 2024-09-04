@@ -6,7 +6,7 @@ title: Home
 
 ## Introduction
 
-**Bold Text**
+**HELLO**
 _Italic Text_
 **_Bold and Italic Text_**
 
