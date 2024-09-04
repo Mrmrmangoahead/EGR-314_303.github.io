@@ -6,7 +6,7 @@ title: Home
 
 ## Introduction
 
-**HELLO**
+**HELLO WE ARE TEAM 303. OUR TEAM MEMBERS ARE Sivanee, Alex, Tim, AND Luke**
 _Italic Text_
 **_Bold and Italic Text_**
 
