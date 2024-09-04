@@ -7,8 +7,8 @@ title: Home
 ## Introduction
 
 **HELLO WE ARE TEAM 303. OUR TEAM MEMBERS ARE Sivanee, Alex, Tim, AND Luke**
-_Italic Text_
-**_Bold and Italic Text_**
+//_Italic Text_
+//**_Bold and Italic Text_**
 
 ## Research Question
 
